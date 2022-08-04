@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Viwe1174
-- 👀 I’m interested in ...Programmig 
+- 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...veeclashman@gmail.com
 
 <!---
 Viwe1174/Viwe1174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
